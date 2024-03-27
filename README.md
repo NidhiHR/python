@@ -1,1 +1,1 @@
-this is a sample python programme
+This is a sample python program solved using oops concept
